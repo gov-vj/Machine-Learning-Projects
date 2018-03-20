@@ -13,6 +13,6 @@ I have used pandas for feature engineering and scikit-learn to build out modelin
   #### Project 4: [Polynomial Regression](https://github.com/gov-vj/Machine-Learning-Projects/tree/master/Linear%20Regression/Project%204)
 * ### Classification
   Project Overview: Build classification modeling to predict if an Amazon review is positive or negative.
-  #### Project 1: [Sentiment analysis of Amazon product's reviews](https://github.com/gov-vj/Sentiment-analysis-of-amazon-products)
+  #### Project 1: [Sentiment analysis of Amazon product's reviews](https://github.com/gov-vj/Machine-Learning-Projects/tree/master/Classification/Project%201)
   #### Project 2: [Implementing logistic regression from scratch](https://github.com/gov-vj/Machine-Learning-Projects/tree/master/Classification/Project%202)
 * ### Clustering
