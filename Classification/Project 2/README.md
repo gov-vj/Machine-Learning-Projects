@@ -1,4 +1,4 @@
-# Implementing  [logistic regression from scratch
+# Implementing  logistic regression from scratch
 
 Libaries used: pandas, numpy, json, string, math
 
