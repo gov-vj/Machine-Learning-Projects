@@ -1,4 +1,4 @@
-# Preducting house price using Ridge regression and using 10-fold CV to select L2-penalty
+# Ridge regression and using 10-fold CV method to tune L2-penalty
 
 Libaries used: numpy, pandas, matplotlib, scikit
 
