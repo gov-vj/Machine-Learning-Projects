@@ -1,4 +1,4 @@
-# Preducting house price using Ridge regression and using 10-fold CV to select l2-penalty
+# Preducting house price using Ridge regression and using 10-fold CV to select L2-penalty
 
 Libaries used: numpy, pandas, matplotlib, scikit
 
@@ -16,3 +16,5 @@ In this part, I used 10-fold cross validation method to get the best penalty for
 
 * Part 3:
 ##### Implementation of ridge regression from scratch using gradient descent.
+
+[Other Machine Learning Projects](https://github.com/gov-vj/Machine-Learning-Projects)
