@@ -2,7 +2,7 @@
 
 Techniques used: Python 2.x, Python 3.x, pandas, numpy, scikit-learn, matplotlib
 
-I have used pandas for feature engineering and scikit-learn to build out modeling and matplotlib to visulaize data.
+I have used pandas for feature engineering and scikit-learn to build out modeling and matplotlib to visulaize data and also implemented ML algo from scratch.
 
 ## Projects
 * ### Linear Regression
@@ -11,6 +11,7 @@ I have used pandas for feature engineering and scikit-learn to build out modelin
   #### Project 2: [Implementing-closed-form-solution-for-simple-regression](https://github.com/gov-vj/Machine-Learning-Projects/tree/master/Linear%20Regression/Project%202)
   #### Project 3: [Predicting-House-Price-using-Multiple-regression](https://github.com/gov-vj/Machine-Learning-Projects/tree/master/Linear%20Regression/Project%203)
   #### Project 4: [Polynomial Regression](https://github.com/gov-vj/Machine-Learning-Projects/tree/master/Linear%20Regression/Project%204)
+  #### Project 5: [Preducting house price using Ridge regression and using 10-fold CV to select L2-penalty](https://github.com/gov-vj/Machine-Learning-Projects/tree/master/Linear%20Regression/Project%205)
 * ### Classification
   Project Overview: Build classification modeling to predict if an Amazon review is positive or negative.
   #### Project 1: [Sentiment analysis of Amazon product's reviews](https://github.com/gov-vj/Machine-Learning-Projects/tree/master/Classification/Project%201)
