@@ -8,3 +8,5 @@ In this, I used LASSO and vary L1 penalty to study the effect of it on the featu
 
 
 ##### In 2nd part of the project I have implemented LASSO from scratch using coordinate descent.
+
+[Other Machine Learning Projects](https://github.com/gov-vj/Machine-Learning-Projects)
