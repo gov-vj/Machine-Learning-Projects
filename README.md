@@ -1,8 +1,8 @@
 # Machine-Learning-Projects
 
-Techniques used: Python 2.x, Python 3.x, pandas, numpy, scikit-learn, matplotlib
+Techniques used: Python 2.x, Python 3.x, pandas, numpy, scikit, matplotlib
 
-I have used pandas for feature engineering and scikit-learn to build out modeling and matplotlib to visulaize data and also implemented ML algo from scratch.
+I have used pandas for feature engineering and scikit to build out modeling and matplotlib to visualize data and also implemented various ML algo from scratch.
 
 ## Projects
 * ### Linear Regression
