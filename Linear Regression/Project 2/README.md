@@ -2,7 +2,7 @@
 
 It is a simple linear regression where I have implemented the closed form solution and train 2 different models.
 
-Libaries used: numpy, pandas, matplotlib
+Libraries used: numpy, pandas, matplotlib
 
 Tools used: Jupyter Notebook
 
