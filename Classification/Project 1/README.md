@@ -2,7 +2,7 @@
 
 It is a logistic regression to classify positive reviews from negative reviews.
 
-Libaries used: numpy, pandas, matplotlib.pyplot, sklearn.linear_model, sklearn.feature_extraction.text, string, json, math
+Libraries used: numpy, pandas, matplotlib.pyplot, sklearn.linear_model, sklearn.feature_extraction.text, string, json, math
 
 Tools used: Jupyter Notebook
 
