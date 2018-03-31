@@ -18,5 +18,5 @@ I have used pandas for feature engineering and scikit to build out modeling and 
   Project Overview: Build classification modeling to predict if an Amazon review is positive or negative.
   #### Project 1: [Sentiment analysis of Amazon product's reviews](https://github.com/gov-vj/Machine-Learning-Projects/tree/master/Classification/Project%201) [(nbviewer)](http://nbviewer.jupyter.org/github/gov-vj/Machine-Learning-Projects/blob/master/Classification/Project%201/Sentiment%20analysis%20of%20amazon%20products.ipynb)
   #### Project 2: [Implementing logistic regression from scratch](https://github.com/gov-vj/Machine-Learning-Projects/tree/master/Classification/Project%202) [(nbviewer)](http://nbviewer.jupyter.org/github/gov-vj/Machine-Learning-Projects/blob/master/Classification/Project%202/Implementing%20logistic%20regression%20from%20scratch.ipynb)
-  #### Project 3: []
+  #### Project 3: [Logistic Regression with L2 regularization](https://github.com/gov-vj/Machine-Learning-Projects/tree/master/Classification/Project%203) [(nbviewer)](http://nbviewer.jupyter.org/github/gov-vj/Machine-Learning-Projects/blob/master/Classification/Project%203/Logistic%20Regression%20with%20L2%20regularization.ipynb)
 * ### Clustering
