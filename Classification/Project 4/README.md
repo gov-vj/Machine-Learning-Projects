@@ -8,4 +8,4 @@ In this, I used libraries to train my model.
 
 * ### Second Part of the project: Implemented decision tree from scratch.
 
-[Other machile learning projects](https://github.com/gov-vj/Machine-Learning-Projects)
+[Other Machine Learning Projects](https://github.com/gov-vj/Machine-Learning-Projects)
