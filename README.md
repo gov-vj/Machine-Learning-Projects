@@ -16,6 +16,7 @@ I have used pandas for feature engineering and scikit to build out modeling and 
   #### Project 7: [Implementation of k-nearest neighbors regression from scratch to predict house price](https://github.com/gov-vj/Machine-Learning-Projects/tree/master/Linear%20Regression/Project%207) [(nbviewer)](https://nbviewer.jupyter.org/github/gov-vj/Machine-Learning-Projects/blob/master/Linear%20Regression/Project%207/Predicting%20house%20prices%20using%20k-nearest%20neighbors%20regression.ipynb)
 * ### Classification
   Project 1 Overview: Build classification modeling to predict if an Amazon review is positive.
+  
   Project 2 Overview: Is this loan safe or risky?
   #### Project 1: [Sentiment analysis of Amazon product's reviews](https://github.com/gov-vj/Machine-Learning-Projects/tree/master/Classification/Project%201) [(nbviewer)](http://nbviewer.jupyter.org/github/gov-vj/Machine-Learning-Projects/blob/master/Classification/Project%201/Sentiment%20analysis%20of%20amazon%20products.ipynb)
   #### Project 2: [Implementing logistic regression from scratch](https://github.com/gov-vj/Machine-Learning-Projects/tree/master/Classification/Project%202) [(nbviewer)](http://nbviewer.jupyter.org/github/gov-vj/Machine-Learning-Projects/blob/master/Classification/Project%202/Implementing%20logistic%20regression%20from%20scratch.ipynb)
